@@ -1,11 +1,8 @@
-#### CV
-[![CV](https://img.shields.io/badge/CV-github-blue?logo=github)](https://shawnzhang7829.github.io/CV/ZhangShuyang_CV_251002.pdf)
-
-Dr. Shuyang Zhang graduated from Tsinghua University and he focuses on urban design in regions with significant seasonal variations, and he is dedicated to integrating urban microclimates with urban building energy models, particularly in optimizing models using localized climate data to address the challenges of urban energy systems under future extreme weather conditions.
-
 #### Contact
 Email: [[zhangshu20@mails.tsinghua.edu.cn]](zhangshu20@mails.tsinghua.edu.cn)\
 LinkedIn: [[https://www.linkedin.com/in/shuyang-shawn-zhang-b355602a7]] (https://www.linkedin.com/in/shuyang-shawn-zhang-b355602a7)
+
+Dr. Shuyang Zhang graduated from Tsinghua University and he focuses on urban design in regions with significant seasonal variations, and he is dedicated to integrating urban microclimates with urban building energy models, particularly in optimizing models using localized climate data to address the challenges of urban energy systems under future extreme weather conditions.
 
 #### Education
 - Ph.D. in Engineering, School of Architecture, Tsinghua University, 2020—2025.\
