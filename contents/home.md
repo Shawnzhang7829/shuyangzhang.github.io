@@ -1,17 +1,29 @@
+#### CV
+[![CV](https://img.shields.io/badge/CV-github-blue?logo=github)](https://shawnzhang7829.github.io/CV/ZhangShuyang_CV_251002.pdf)
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Dr. Shuyang Zhang graduated from Tsinghua University and he focuses on urban design in regions with significant seasonal variations, and he is dedicated to integrating urban microclimates with urban building energy models, particularly in optimizing models using localized climate data to address the challenges of urban energy systems under future extreme weather conditions.
 
 #### Contact
-
-Email: senli[at]fas.harvard.edu
+Email: [[zhangshu20@mails.tsinghua.edu.cn]](zhangshu20@mails.tsinghua.edu.cn)\
+LinkedIn: [[https://www.linkedin.com/in/shuyang-shawn-zhang-b355602a7]] (https://www.linkedin.com/in/shuyang-shawn-zhang-b355602a7)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+- Ph.D. in Engineering, School of Architecture, Tsinghua University, 2020—2025.\
+- Visiting Ph.D. student of Architecture, Department of Architecture, National University of Singapore, 2023—2024.\
+- M.Arch of Architecture, School of Architecture, South China University of Technology, 2017—2020.\
+- B.arch of Architecture, School of Architecture and Art, Hefei University of Technology, 2012—2017.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+UBEM, Urban microclimate, Mobility and heat risk, Urban climate resilience design
+
+#### Skills
+- Coding: Python (Machine learning, Deep learning)\
+- Geography: ArcGIS, QGIS (UMEP), ENVI, SAGA\
+- Simulation: DesignBuilder, Ecotect, Radiance, Daysim, Dpethmap, Ladybug, Honeybee, Dragonfly, Eddy3D\
+- 3D Modeling: Rhino + Grasshopper, SketchUp\
+- 2D Graphic: AutoCAD, Photoshop, InDesign, Illustrator, PowerPoint\
+- Statistics: Excel, SPSS, Minitab, Origin\
+- Rendering: Enscape, V-ray\
+- Video Editing: Premiere, Audition
+
 
